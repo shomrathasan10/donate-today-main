@@ -24,7 +24,7 @@ h1 {
 }
 .button {
     width: 40%;
-    background-image: linear-gradient(rgb(255, 72, 0),rgb(215, 230, 11));
+    background-image: linear-gradient(rgb(230, 255, 7),rgb(238, 121, 146));
     margin: 10px;
     padding: 10px 10px 10px;
     text-decoration: none;
@@ -109,7 +109,7 @@ h1 {
     background-color: beige;
     margin-left: 5%;
     margin-right: 5%;
-    text-align: center;
+    text-align: left
     border-radius: 5px;
 }
 .one {
@@ -142,13 +142,14 @@ h1 {
     
 }
 .border {
-  background-color: rgb(255, 213, 252);
-  width: 600px;
-  padding: 50px;
-  margin: 20px;
+  background-color: #f5caec;
+  width: 500px;
+  height: 100px;
+  padding: 80px;
+  margin: 0 auto;
   position: relative;
   top: 400px;
-  margin: 0px auto;
+ 
 }
 .inline {
     display: flex;
@@ -158,33 +159,40 @@ h1 {
 }
 .hatim-one {
    
-    width: 30%;
+    width: 50%;
+    margin: 0 auto;
     padding: 5px 100px 5px;
     background-color: rgb(255, 255, 255);
     border-style: gray;
     font-weight: 700;
     color: rgb(143, 143, 128);
-   text-align: left;
+    text-align: center;
+    
     
 }
 .hatim-two {
-    width: 30%;
+    width: 50%;
+    margin: 0 auto;
     padding: 2px 20px 5px;
     background-color: rgb(216, 87, 55);
     border-style: rgb(230, 7, 7);
     font-weight: 700;
     color: rgb(255, 255, 255);
     text-align: center;
+   
 }
+
 .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: rgb(0, 0, 0);
-    color: white;
-    text-align: center;
- }
- #font-size {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  position: relative;
+  top: 300px;
+  padding: 10px 100px 10px;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  text-align: center;
+}
+   
+ .font-size {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: burlywood;
  }
