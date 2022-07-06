@@ -1,0 +1,152 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    margin-bottom: 20px;
+   
+    
+    
+}
+h1 {
+    font-size: 50px;
+
+}
+.middle {
+    text-align: center;
+   color: rgb(255, 255, 255);
+   
+}
+  
+.background {
+    background-image: url(donate/images/donation1.jpg);  
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+}
+.button {
+    width: 40%;
+    background-image: linear-gradient(rgb(255, 72, 0),rgb(215, 230, 11));
+    margin: 10px;
+    padding: 10px 10px 10px;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 5px;
+    position: relative;
+    top: 5px;
+}
+.center {
+   text-align: center;
+   
+}
+.flexible {
+    display: flex;
+    margin-bottom: 50px;
+    
+    
+
+}
+.orginal {
+    width: 320px;
+    padding: 15px;
+    background-color: beige;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    top: 20px;
+    
+}
+.tk {
+    width: 320px;
+    padding: 15px;
+    border: 2px solid rgb(214, 59, 12);
+    background-color: rgb(252, 231, 250);
+    color: orangered;
+
+}
+.Water {
+    text-align: center;
+    border-bottom-style: solid;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: rgb(209, 199, 185);
+}
+.buttonw {
+    text-align: center;
+    width: 50%;
+    height: 1400px;
+    background-image: linear-gradient(rgb(255, 72, 0),rgb(215, 230, 11));
+    margin: 10px;
+    padding: 10px 10px 10px;
+    text-decoration: none;
+    font-weight: 700;
+    position: relative;
+    top: 50px;
+    border-radius: 5px;
+    
+}
+.donate {
+    text-align: center;
+    justify-content: center;
+    margin: 45%;
+}
+.cente {
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+.experiance {
+    display: flex;
+    position: relative;
+    top: 60px;
+
+}
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+    width: 320px;
+    padding: 15px;
+    background-color: beige;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    border-radius: 5px;
+}
+.one {
+    background-color: rgb(226, 250, 250);
+}
+.two {
+    background-color: rgb(255, 227, 248);
+}
+.three {
+    background-color: rgb(250, 255, 181);
+}
+.nike {
+    width: 60%;
+    padding-left: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    position: relative;
+    top: 80px;
+}
+.tuptap {
+    display: flex;
+    position: relative;
+    top: 200px;
+
+}
+.left {
+    position: relative;
+    top: 350px;
+    text-align: center;
+    
+}
+.border {
+  background-color: rgb(255, 213, 252);
+  width: 600px;
+  padding: 50px;
+  margin: 20px;
+  position: relative;
+  top: 400px;
+  margin-left: 450px;
+}
