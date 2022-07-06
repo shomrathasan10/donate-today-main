@@ -1,7 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0%;
-    margin-bottom: 20px;
+    margin-bottom: 35%;
    
     
     
@@ -148,5 +148,43 @@ h1 {
   margin: 20px;
   position: relative;
   top: 400px;
-  margin-left: 450px;
+  margin: 0px auto;
 }
+.inline {
+    display: flex;
+    margin: 0% auto;
+    
+
+}
+.hatim-one {
+   
+    width: 30%;
+    padding: 5px 100px 5px;
+    background-color: rgb(255, 255, 255);
+    border-style: gray;
+    font-weight: 700;
+    color: rgb(143, 143, 128);
+   text-align: left;
+    
+}
+.hatim-two {
+    width: 30%;
+    padding: 2px 20px 5px;
+    background-color: rgb(216, 87, 55);
+    border-style: rgb(230, 7, 7);
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+ }
+ #font-size {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
